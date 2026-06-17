@@ -1,14 +1,14 @@
-## Projeto de Programação - Emulador do Sistema CHIP-8N 
+# Projeto de Programação - Emulador do Sistema CHIP-8N 
 
-# Esse projeto tem como objetivo emular a maquina virtual antiga CHIP-8, uma maquina virtual criada em 1976 por Joseph Weisbecker, esse sistema foi projetado para rodar jogos simples em PC'S antigos, como os COSMAC VIP.
+Esse projeto tem como objetivo emular a maquina virtual antiga CHIP-8, uma maquina virtual criada em 1976 por Joseph Weisbecker, esse sistema foi projetado para rodar jogos simples em PC'S antigos, como os COSMAC VIP.
 
 
 **ESPECIFICAÇÕES TÉCNICAS**
-# MEMORIA: 4KB
-# GRAFICOS: tela monocromatica de 64x32 pixels 
-# REGISTRADORES: 16 registradores de uso geral 
-# INSTRUÇÕES: 35 instruções simples de 16 bits 
-# TIMERS: 2 temporizadores de 8 bits que decrementam a 60hz 
+- MEMORIA: 4KB
+- GRAFICOS: tela monocromatica de 64x32 pixels 
+- REGISTRADORES: 16 registradores de uso geral 
+- INSTRUÇÕES: 35 instruções simples de 16 bits 
+- TIMERS: 2 temporizadores de 8 bits que decrementam a 60hz 
 
 **INSTALAÇÃO**
 
