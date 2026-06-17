@@ -1,4 +1,4 @@
-# Projeto de Programação - Emulador do Sistema CHIP-8N 
+# Emulador do Sistema CHIP-8
 
 Esse projeto tem como objetivo emular a maquina virtual antiga CHIP-8, uma maquina virtual criada em 1976 por Joseph Weisbecker, esse sistema foi projetado para rodar jogos simples em PC'S antigos, como os COSMAC VIP.
 
