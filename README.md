@@ -1,6 +1,6 @@
 # Emulador do Sistema CHIP-8
 
-Esse projeto tem como objetivo emular a maquina virtual antiga CHIP-8, uma maquina virtual criada em 1976 por Joseph Weisbecker, esse sistema foi projetado para rodar jogos simples em PC'S antigos, como os COSMAC VIP.
+Esse projeto tem como objetivo emular a maquina virtual antiga CHIP-8, uma maquina virtual criada em 1976 por Joseph Weisbecker, esse sistema foi projetado para rodar jogos simples em PC'S antigos, como os COSMAC VIP. Nesse caso, este será um emulador que rodará o jogo `pong` feito para esse sistema, de forma totalmente funcional.
 
 
 **ESPECIFICAÇÕES TÉCNICAS**
@@ -12,9 +12,9 @@ Esse projeto tem como objetivo emular a maquina virtual antiga CHIP-8, uma maqui
 
 **INSTALAÇÃO**
 
-Esse projeto usa `pygame`. No Windows, use Python 3.12 ou 3.13 x64. O erro de build costuma acontecer no Python 3.14 porque ainda não há wheel compatível estável para essa versão.
+Esse projeto usa a biblioteca `pygame`. No Windows, use Python 3.12 ou 3.13 x64.
 
-Passos recomendados:
+Passos recomendados (como desenvolvedor):
 
 1. Instale Python 3.13 x64.
 2. Crie e ative uma virtualenv:
@@ -25,4 +25,6 @@ Passos recomendados:
 4. Instale as dependências:
 	- `pip install -r requirements.txt`
 5. No VS Code, selecione o interpretador da `.venv`.
+
+Para executar o emulador, basta abrir o arquivo executável dentro da pasta "dist"
 
